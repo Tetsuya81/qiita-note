@@ -1,7 +1,7 @@
 ---
 title: Hello world
-tags: Blog
-  - ''
+tags:
+  - 'Blog'
 private: false
 updated_at: ''
 id: null
@@ -11,3 +11,7 @@ ignorePublish: false
 ---
 # 初めての投稿
 こんにちは！ついにこのブログを始めることができました。これから、自分の学びや日々の気づきを少しずつ発信していきます。初めての試みなので手探りですが、読んでくださる方に何かしらの気づきや共感を届けられたら嬉しいです。どうぞよろしくお願いします！
+
+# Qiita
+
+`tags` が空欄だとGithub Actionsが失敗する
