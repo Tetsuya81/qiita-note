@@ -1,6 +1,6 @@
 ---
 title: Hello world
-tags:
+tags: Blog
   - ''
 private: false
 updated_at: ''
