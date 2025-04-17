@@ -1,7 +1,7 @@
 ---
 title: Hello world
 tags:
-  - Blog
+  - 'Blog'
 private: false
 updated_at: '2025-04-05T14:39:23+09:00'
 id: 98b560205f02958a0d31
